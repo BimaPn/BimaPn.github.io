@@ -17,3 +17,11 @@ body {
 section {
   padding-top: 75px;
 }
+.btn {
+  color: aqua;
+  background-color: #8f8a8a;
+}
+.btn:hover {
+  color: aqua;
+  background-color: #bfbfbf;
+}
